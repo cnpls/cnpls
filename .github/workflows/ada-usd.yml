@@ -6,7 +6,7 @@ on:
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
-  github-metrics:
+  ada-usd:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
