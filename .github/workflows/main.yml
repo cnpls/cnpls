@@ -31,7 +31,6 @@ jobs:
           plugin_stars_limit: 3
           repositories_affiliations: ""
           filename: github-metrics.svg
-
   vti:
     runs-on: ubuntu-latest
     steps:
@@ -44,7 +43,10 @@ jobs:
 
           # Options
           user: cnpls
+          base: ""
           template: classic
+          config_animated: yes
+          config_timezone: America/New_York
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: VTI
@@ -63,7 +65,10 @@ jobs:
 
           # Options
           user: cnpls
+          base: ""
           template: classic
+          config_animated: yes
+          config_timezone: America/New_York
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: SLV
@@ -82,7 +87,10 @@ jobs:
 
           # Options
           user: cnpls
+          base: ""
           template: classic
+          config_animated: yes
+          config_timezone: America/New_York
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: ETH-USD
@@ -101,7 +109,10 @@ jobs:
 
           # Options
           user: cnpls
+          base: ""
           template: classic
+          config_animated: yes
+          config_timezone: America/New_York
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: ADA-USD
