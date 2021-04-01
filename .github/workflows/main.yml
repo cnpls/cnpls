@@ -19,7 +19,7 @@ jobs:
           # Options
           user: cnpls
           template: classic
-          base: metadata
+          base: ""
           config_animated: yes
           config_timezone: America/New_York_City
           plugin_languages: yes
