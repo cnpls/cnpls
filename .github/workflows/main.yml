@@ -19,7 +19,7 @@ jobs:
           # Options
           user: cnpls
           template: classic
-          base: repositories
+          base: metadata
           config_animated: yes
           config_timezone: America/New_York_City
           plugin_languages: yes
@@ -28,5 +28,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_threshold: 0.2%
           plugin_stars: yes
-          plugin_stars_limit: 1
+          plugin_stars_limit: 3
           repositories_affiliations: ""
