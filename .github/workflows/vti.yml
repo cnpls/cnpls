@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Stocks
+name: VTI
 on:
   schedule: [{cron: "0 8 * * *"}, {cron: "0 5 * * *"}]
   # Lines below let you run workflow manually and on each commit
