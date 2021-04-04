@@ -1044,6 +1044,9 @@
                             </div>
                             <small>
                                 <div>
+                                    702 kB
+                                </div>
+                                <div>
                                     37.12%
                                 </div>
                             </small>
@@ -1056,6 +1059,9 @@
                                 JavaScript
                             </div>
                             <small>
+                                <div>
+                                    259 kB
+                                </div>
                                 <div>
                                     13.7%
                                 </div>
@@ -1070,6 +1076,9 @@
                             </div>
                             <small>
                                 <div>
+                                    48.9 kB
+                                </div>
+                                <div>
                                     2.59%
                                 </div>
                             </small>
@@ -1082,6 +1091,9 @@
                                 Rust
                             </div>
                             <small>
+                                <div>
+                                    5.89 kB
+                                </div>
                                 <div>
                                     0.31%
                                 </div>
@@ -1098,6 +1110,9 @@
                             </div>
                             <small>
                                 <div>
+                                    695 kB
+                                </div>
+                                <div>
                                     36.75%
                                 </div>
                             </small>
@@ -1110,6 +1125,9 @@
                                 TypeScript
                             </div>
                             <small>
+                                <div>
+                                    158 kB
+                                </div>
                                 <div>
                                     8.39%
                                 </div>
@@ -1124,6 +1142,9 @@
                             </div>
                             <small>
                                 <div>
+                                    15.6 kB
+                                </div>
+                                <div>
                                     0.83%
                                 </div>
                             </small>
@@ -1136,6 +1157,9 @@
                                 Go
                             </div>
                             <small>
+                                <div>
+                                    5.82 kB
+                                </div>
                                 <div>
                                     0.31%
                                 </div>
@@ -1280,7 +1304,7 @@
                                             discord/fastglobal
                                         </span>
                                         <span>
-                                            starred 1 hour ago
+                                            starred 2 hours ago
                                         </span>
                                     </div>
                                 </div>
