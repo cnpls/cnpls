@@ -1024,14 +1024,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.08759364530604" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="171.08759364530604" y="0" width="168.5065155843372" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="339.5941092296432" y="0" width="63.138601937675354" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.7327111673186" y="0" width="38.66160163792564" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="441.3943128052442" y="0" width="11.933618678114351" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.3279314833586" y="0" width="3.8210674267387335" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.14899891009736" y="0" width="1.434392413684263" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.5833913237816" y="0" width="1.4166086762184085" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.0484604542658" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="171.0484604542658" y="0" width="168.57318944402263" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="339.6216498982884" y="0" width="63.124160125040106" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="402.74581002332854" y="0" width="38.652758496172446" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="441.39856851950094" y="0" width="11.930889078792847" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="453.32945759829386" y="0" width="3.8201934267110156" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.14965102500486" y="0" width="1.4340643223764398" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.5837153473813" y="0" width="1.4162846526187156" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1044,7 +1044,7 @@
                             </div>
                             <small>
                                 <div>
-                                    37.19%
+                                    37.18%
                                 </div>
                             </small>
                         </div>
@@ -1057,7 +1057,7 @@
                             </div>
                             <small>
                                 <div>
-                                    13.73%
+                                    13.72%
                                 </div>
                             </small>
                         </div>
@@ -1098,7 +1098,7 @@
                             </div>
                             <small>
                                 <div>
-                                    36.63%
+                                    36.65%
                                 </div>
                             </small>
                         </div>
@@ -1164,7 +1164,7 @@
                                             kubernetes/git-sync
                                         </span>
                                         <span>
-                                            starred 9 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1222,7 +1222,7 @@
                                             rust-ndarray/ndarray-linalg
                                         </span>
                                         <span>
-                                            starred 9 hours ago
+                                            starred 11 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1280,7 +1280,7 @@
                                             quantumblacklabs/kedro
                                         </span>
                                         <span>
-                                            starred 9 hours ago
+                                            starred 12 hours ago
                                         </span>
                                     </div>
                                 </div>
