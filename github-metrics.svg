@@ -1024,14 +1024,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.76085640812855" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="170.76085640812855" y="0" width="169.0631998752547" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="339.82405628338324" y="0" width="63.01802199428603" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.8420782776693" y="0" width="38.58776703288571" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="441.429845310555" y="0" width="11.910828261151092" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.3406735717061" y="0" width="3.8137700828023284" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.15444365450844" y="0" width="1.4316530600918147" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.5860967146003" y="0" width="1.4139032853997795" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.15095126309706" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="171.15095126309706" y="0" width="167.48565728039043" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="338.63660854348745" y="0" width="63.16198359454592" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="401.7985921380334" y="0" width="38.67591890621829" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="440.4745110442517" y="0" width="11.938037967876758" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="452.41254901212847" y="0" width="3.8224824547043434" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.2350314668328" y="0" width="2.3300449314267278" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.5650763982596" y="0" width="1.4349236017404636" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1047,7 +1047,7 @@
                                     702 kB
                                 </div>
                                 <div>
-                                    37.12%
+                                    37.21%
                                 </div>
                             </small>
                         </div>
@@ -1063,7 +1063,7 @@
                                     259 kB
                                 </div>
                                 <div>
-                                    13.7%
+                                    13.73%
                                 </div>
                             </small>
                         </div>
@@ -1079,23 +1079,23 @@
                                     48.9 kB
                                 </div>
                                 <div>
-                                    2.59%
+                                    2.6%
                                 </div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Go
                             </div>
                             <small>
                                 <div>
-                                    5.89 kB
+                                    9.56 kB
                                 </div>
                                 <div>
-                                    0.31%
+                                    0.51%
                                 </div>
                             </small>
                         </div>
@@ -1110,10 +1110,10 @@
                             </div>
                             <small>
                                 <div>
-                                    695 kB
+                                    687 kB
                                 </div>
                                 <div>
-                                    36.75%
+                                    36.41%
                                 </div>
                             </small>
                         </div>
@@ -1129,7 +1129,7 @@
                                     158 kB
                                 </div>
                                 <div>
-                                    8.39%
+                                    8.41%
                                 </div>
                             </small>
                         </div>
@@ -1152,13 +1152,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Rust
                             </div>
                             <small>
                                 <div>
-                                    5.82 kB
+                                    5.89 kB
                                 </div>
                                 <div>
                                     0.31%
@@ -1188,7 +1188,7 @@
                                             dropbox/divans
                                         </span>
                                         <span>
-                                            starred 13 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1246,7 +1246,7 @@
                                             dropbox/lepton
                                         </span>
                                         <span>
-                                            starred 13 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1304,7 +1304,7 @@
                                             discord/fastglobal
                                         </span>
                                         <span>
-                                            starred 13 hours ago
+                                            starred 19 hours ago
                                         </span>
                                     </div>
                                 </div>
