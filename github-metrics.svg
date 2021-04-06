@@ -1024,14 +1024,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.08550971394376" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="171.08550971394376" y="0" width="167.42161719885715" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="338.5071269128009" y="0" width="63.13783287833011" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="401.64495979113104" y="0" width="38.661130720529165" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="440.3060905116603" y="0" width="11.933473320746822" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.2395638324071" y="0" width="3.821020884250886" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="456.06058471665796" y="0" width="2.505040341265659" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.5656250579236" y="0" width="1.4343749420764564" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.7343237768273" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="170.7343237768273" y="0" width="167.07795210630874" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="337.812275883136" y="0" width="63.00823032435606" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="400.8205062074921" y="0" width="38.581771308707715" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.40227751619983" y="0" width="11.908977569948243" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.3112550861481" y="0" width="3.813177503462994" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.12443258961105" y="0" width="3.4441367989518796" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.56856938856293" y="0" width="1.4314306114370487" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1047,7 +1047,7 @@
                                     702 kB
                                 </div>
                                 <div>
-                                    37.19%
+                                    37.12%
                                 </div>
                             </small>
                         </div>
@@ -1063,7 +1063,7 @@
                                     259 kB
                                 </div>
                                 <div>
-                                    13.73%
+                                    13.7%
                                 </div>
                             </small>
                         </div>
@@ -1092,10 +1092,10 @@
                             </div>
                             <small>
                                 <div>
-                                    10.2 kB
+                                    14.1 kB
                                 </div>
                                 <div>
-                                    0.54%
+                                    0.75%
                                 </div>
                             </small>
                         </div>
@@ -1113,7 +1113,7 @@
                                     687 kB
                                 </div>
                                 <div>
-                                    36.4%
+                                    36.32%
                                 </div>
                             </small>
                         </div>
@@ -1129,7 +1129,7 @@
                                     158 kB
                                 </div>
                                 <div>
-                                    8.4%
+                                    8.39%
                                 </div>
                             </small>
                         </div>
@@ -1188,7 +1188,7 @@
                                             facebookresearch/faiss
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 1 day ago
                                         </span>
                                     </div>
                                 </div>
@@ -1246,7 +1246,7 @@
                                             benfred/py-spy
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 1 day ago
                                         </span>
                                     </div>
                                 </div>
@@ -1304,7 +1304,7 @@
                                             indygreg/PyOxidizer
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 1 day ago
                                         </span>
                                     </div>
                                 </div>
