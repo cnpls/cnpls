@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnplus
+          user: cnp0
           template: classic
           base: ""
           config_animated: yes
@@ -42,7 +42,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnplus
+          user: cnp0
           base: ""
           template: classic
           config_animated: yes
