@@ -26,7 +26,7 @@ jobs:
           plugin_languages_ignored: html, css, Jupyter Notebook, shell
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_threshold: 0.2%
+          plugin_languages_threshold: 0.1%
           plugin_stars: yes
           plugin_stars_limit: 3
           repositories_affiliations: ""
