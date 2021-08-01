@@ -1199,14 +1199,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.202886425434" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="170.202886425434" y="0" width="167.98971790625887" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="338.19260433169285" y="0" width="62.81210732870509" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="401.0047116603979" y="0" width="38.46167949645348" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="439.4663911568514" y="0" width="11.871909010108759" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.33830016696015" y="0" width="3.8013083906331584" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.1396085575933" y="0" width="3.433416383175005" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.5730249407683" y="0" width="1.4269750592316248" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.14963782180087" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="170.14963782180087" y="0" width="168.08107440493276" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="338.2307122267336" y="0" width="62.792456328203556" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="401.0231685549371" y="0" width="38.44964661751949" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.4728151724566" y="0" width="11.868194839388597" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.3410100118452" y="0" width="3.800119137219004" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.14112914906417" y="0" width="3.432342226138453" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.57347137520264" y="0" width="1.4265286247972904" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1217,7 +1217,7 @@
                     </div>
                             <small>
                                 <div>702 kB</div>
-                                <div>37%</div>
+                                <div>36.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1259,7 +1259,7 @@
                     </div>
                             <small>
                                 <div>693 kB</div>
-                                <div>36.52%</div>
+                                <div>36.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/airhornbot</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/vscode-cosmosdb</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
